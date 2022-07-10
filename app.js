@@ -34,4 +34,6 @@ const coords = async (city) => {
     });
 };
 
+coords("seoul");
 coords("atlanta");
+coords("madison");
